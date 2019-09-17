@@ -2,8 +2,10 @@ h1 {
   font-size: 36px;
   color: blue;
 }
-<
+
 p {
   font-weight:lighter;
   font-size: initial;
 }
+
+font-family: helvetica;

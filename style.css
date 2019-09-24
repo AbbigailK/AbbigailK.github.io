@@ -9,6 +9,7 @@ p {
 }
 
 body {
+  max-width: 800px;
   font-family: 'Noto Serif', serif;
   margin-top: 20px;
   margin-bottom: 20px;

@@ -38,6 +38,10 @@ ul{
   padding: 0;
 }
 
+.media {
+  float: left;
+}
+
 h2{
   font-family: 'Nanum Gothic', sans-serif;
 }

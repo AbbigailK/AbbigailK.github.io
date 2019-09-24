@@ -21,10 +21,11 @@ body {
 
 .center-top-content {
   text-align: center;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid black
+  bord
 }
 
 ul{
   text-align: center;
-  display: inline;
+  list-style-position: inside;
 }

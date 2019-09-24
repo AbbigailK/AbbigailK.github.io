@@ -21,8 +21,9 @@ body {
 
 .center-top-content {
   text-align: center;
-  border-bottom: 2px solid black
-  bord
+  border-bottom-width: 1px;
+  border-bottom-color: black;
+  border-bottom-length: 100px;
 }
 
 ul{

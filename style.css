@@ -11,6 +11,8 @@ p {
 body {
   max-width: 800px;
   font-family: 'Raleway', sans-serif;
+
+.container {
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;

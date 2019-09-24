@@ -8,16 +8,8 @@ p {
   font-size: initial;
 }
 
-body.source {
-  font-family: Noto Serif;
-}
-
 body {
   max-width: 800px;
-}
-html{
-  font-size: 800px;
   margin-top: 20px;
   margin-bottom: 20px;
-
 }

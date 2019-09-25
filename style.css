@@ -37,7 +37,7 @@ strong {
   font-style: italic;
 }
 
-.vertical ul{
+ul{
   list-style-type: desc;
   text-align: center;
   list-style-position: inside;

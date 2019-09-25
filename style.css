@@ -24,6 +24,10 @@ div.container {
     margin-inline-end: 0px;
 }
 
+img{
+  float:left;
+}
+
 div.center-top-content {
   text-align:center;
   border-bottom: 2px solid black;

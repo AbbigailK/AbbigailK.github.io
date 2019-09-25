@@ -19,8 +19,8 @@ div.container {
   text-align: center;
 }
 
-div.container.IMG_3388 {
-  width: 33px;
+img{
+  weight: 33px;
   float: right;
 }
 

@@ -24,7 +24,12 @@ div.container {
     margin-inline-end: 0px;
 }
 
-img{
+style{
+  line-height: 2.0"
+  float: left;
+}
+
+IMG_3388{
   weight: 33%;
   float: right;
 }
@@ -79,11 +84,6 @@ h2,
   padding-right: 5px;
   color: white;
   font-weight: bold;
-}
-
-style{
-  line-height: 2.0"
-  float: left;
 }
 
 h2 {

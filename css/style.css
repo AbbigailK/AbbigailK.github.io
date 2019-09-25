@@ -54,7 +54,7 @@ ul{
   list-style-position: outisde;
 }
 
-ul.list-inline.list-pipe {
+#nav-links {
   list-style-type: none;
   text-align: center;
   display:inline;
@@ -63,10 +63,8 @@ ul.list-inline.list-pipe {
   padding-left: 0
 }
 
-.horizontal {
-  list-style-type: none;
-  text-align: center;
-  display:inline;
+#nav-links li {
+  display:inline-block;
 }
 
 .list-pipe > li:not(:last-child)::after {

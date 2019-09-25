@@ -59,6 +59,12 @@ ul.list-inline.list-pipe {
   display:inline;
 }
 
+.horizontal {
+  list-style-type: none;
+  text-align: center;
+  display:inline;
+}
+
 .list-pipe > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;

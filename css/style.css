@@ -21,7 +21,7 @@ body {
 }
 
 img{
-  width: 33%;
+  width: 33% auto;
   float: right;
 }
 

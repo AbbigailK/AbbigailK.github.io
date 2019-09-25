@@ -31,7 +31,8 @@ div.container {
 
 img{
   width: 33%;
-  height: 50px
+  height: 50px;
+  float: right;
 }
 
 div.center-top-content {

@@ -36,3 +36,7 @@ li {
   display:inline;
   list-style-type: none;
 }
+
+h2{
+  font-family: 'Nanum Gothic', sans-serif;
+}

@@ -17,6 +17,11 @@ div.container {
   margin-top: 20px;
   margin-bottom: 20px;
   text-align: center;
+  float: left;
+  margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 img{
@@ -59,11 +64,6 @@ h2,
     h4,
       h5{
   font-family: 'Nanum Gothic', sans-serif;
-  margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    text-align: left;
 }
 
 .main-content{

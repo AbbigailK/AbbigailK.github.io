@@ -31,7 +31,10 @@ img{
 div.center-top-content {
   text-align:center;
   border-bottom: 2px solid grey;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
   letter-spacing: 2px;
   max-width: 400px;
 }

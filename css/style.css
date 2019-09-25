@@ -35,7 +35,7 @@ div.center-top-content {
   letter-spacing: 2px;
 }
 
-strong {
+.personal-title {
   text-align: center;
   color: grey;
   font-style: italic;
@@ -119,6 +119,6 @@ p.container-experience {
  text-align:left;
 }
 
-li.a {
+strong {
   font-style: italic;
 }

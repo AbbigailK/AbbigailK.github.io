@@ -26,6 +26,12 @@ div.center-top-content {
   letter-spacing: 2px;
 }
 
+strong {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
+
 ul{
   list-style-type: desc;
   text-align: center;

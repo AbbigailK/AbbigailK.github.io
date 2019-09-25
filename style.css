@@ -35,6 +35,7 @@ ul{
 li {
   display:inline;
   list-style-type: none;
+  text-align: center;
 }
 
 h2,

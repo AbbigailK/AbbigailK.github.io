@@ -64,7 +64,9 @@ ul{
 }
 
 #nav-links li {
-  display:inline-block;
+  list-style-type: none;
+  text-align: center;
+  display:inline;
 }
 
 #nav-links > li:not(:last-child)::after {

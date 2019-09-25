@@ -59,6 +59,7 @@ ul.list-inline.list-pipe {
   text-align: center;
   display:inline;
   margin: 0 auto;
+  max-width: 350px;
 }
 
 .horizontal {

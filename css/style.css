@@ -67,7 +67,7 @@ ul{
   display:inline-block;
 }
 
-.list-pipe > li:not(:last-child)::after {
+#nav-links > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;
 }

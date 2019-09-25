@@ -45,7 +45,8 @@ strong {
 
 .list-inline.list-pipe {
   list-style-type: none;
-  float: center;
+  text-align: center;
+  display: inline;
 }
 
 .list-pipe > li:not(:last-child)::after {

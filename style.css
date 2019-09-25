@@ -46,6 +46,7 @@ ul{
 ul.list-inline.list-pipe {
   list-style-type: none;
   float: center;
+  display:inline;
 }
 
 .list-pipe > li:not(:last-child)::after {

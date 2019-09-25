@@ -21,7 +21,7 @@ div.container {
 
 div.center-top-content {
   text-align:center;
-  border: 10px solid black;
+  border-bottom: 2px solid black;
   margin-bottom: 0px;
   letter-spacing: 2px;
 }
@@ -32,7 +32,7 @@ ul{
   list-style-position: inside;
 }
 
-li {
+li.social {
   display:inline;
   list-style-type: none;
   text-align: center;

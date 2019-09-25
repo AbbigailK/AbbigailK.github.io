@@ -19,6 +19,11 @@ div.container {
   text-align: center;
 }
 
+div.container.IMG_3388 {
+  width: 33px;
+  float: right;
+}
+
 div.center-top-content {
   text-align:center;
   border-bottom: 2px solid black;
@@ -58,8 +63,4 @@ h2,
 .main-content{
   width: 80%;
   text-align: center;
-}
-
-img {
-  float:right;
 }

@@ -39,7 +39,7 @@ strong {
 
 ul{
   list-style-type: desc;
-  text-align: center;
+  text-align: left;
   list-style-position: inside;
 }
 

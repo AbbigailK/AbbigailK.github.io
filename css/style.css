@@ -11,18 +11,9 @@ p {
 body {
   max-width: 800px;
   font-family: 'Raleway', sans-serif;
+  margin: 20px auto;
 }
 
-div.container {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  text-align: center;
-  float: left;
-  margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
 
 .main-content{
   width: 80%;

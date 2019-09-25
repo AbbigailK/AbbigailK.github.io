@@ -38,7 +38,7 @@ ul{
   list-style-position: inside;
 }
 
-.list-pipe > li: (:last-child)::after {
+.list-pipe > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;
   list-style-type: none;
@@ -54,5 +54,5 @@ h2,
 
 .main-content{
   width: 80%;
-  
+
 }

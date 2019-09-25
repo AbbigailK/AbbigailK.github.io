@@ -38,6 +38,12 @@ ul{
   list-style-position: inside;
 }
 
+li{
+  display:inline;
+  list-style-type: none;
+  text-align: center;
+}
+
 .list-pipe > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;

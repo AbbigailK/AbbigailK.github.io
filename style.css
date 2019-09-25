@@ -38,11 +38,6 @@ ul{
   list-style-position: inside;
 }
 
-li{
-  display:inline;
-  list-style-type: none;
-  text-align: center;
-}
 .list-inline.list-pipe {
   list-style-type: none;
   float: center;
@@ -67,5 +62,5 @@ h2,
 
 img {
   float:right;
-  background-position: 33% 33% 
+  background-position: 33% 33%
 }

@@ -43,12 +43,14 @@ li{
   list-style-type: none;
   text-align: center;
 }
+.list-inline.list-pipe {
+  list-style-type: none;
+  float: center;
+}
 
 .list-pipe > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;
-  list-style-type: none;
-  float: center;
 }
 
 h2,
@@ -61,4 +63,9 @@ h2,
 .main-content{
   width: 80%;
   text-align: center;
+}
+
+img {
+  float:right;
+  background-position: 33% 33% 
 }

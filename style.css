@@ -24,6 +24,11 @@ div.container {
     margin-inline-end: 0px;
 }
 
+.main-content{
+  width: 80%;
+  text-align: left;
+}
+
 img{
   width: 33%;
   height: 15%;
@@ -67,11 +72,6 @@ ul.list-inline.list-pipe {
 
 h2,h3,h4,h5{
   font-family: 'Nanum Gothic', sans-serif;
-}
-
-.main-content{
-  width: 80%;
-  text-align: left;
 }
 
 .highlight {

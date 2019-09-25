@@ -89,3 +89,22 @@ h5 {
 h5 {
   font-style: italic;
 }
+
+h3.container-experience {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h4.container-experience {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h5.container-experience {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p.container-experience {
+  font-size: 14px;
+}

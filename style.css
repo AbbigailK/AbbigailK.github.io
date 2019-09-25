@@ -43,7 +43,7 @@ ul{
   list-style-position: inside;
 }
 
-.list-inline.list-pipe li {
+li.list-inline.list-pipe {
   list-style-type: none;
   float: center;
 }

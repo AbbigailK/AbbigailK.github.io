@@ -54,10 +54,11 @@ ul{
   list-style-position: outisde;
 }
 
-ul.list-inline.list-pipe {
+#list-inline.list-pipe {
   list-style-type: none;
   text-align: center;
   display:inline;
+  max-width: 350px;
 }
 
 .horizontal {

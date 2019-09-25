@@ -115,7 +115,7 @@ h5.container-experience {
   text-align: left;
 }
 
-p.container-experience {
+div.p.container-experience {
   font-size: 14px;
   border-bottom: 2px solid grey;
 }

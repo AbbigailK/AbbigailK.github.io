@@ -45,7 +45,7 @@ strong {
 ul{
   list-style-type: desc;
   text-align: left;
-  list-style-position: outside;
+  list-style-position: inside;
 }
 
 ul.list-inline.list-pipe {

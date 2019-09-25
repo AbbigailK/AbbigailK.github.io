@@ -54,11 +54,10 @@ ul{
   list-style-position: outisde;
 }
 
-#list-inline.list-pipe {
+ul.list-inline.list-pipe {
   list-style-type: none;
   text-align: center;
   display:inline;
-  max-width: 350px;
 }
 
 .horizontal {
@@ -129,5 +128,4 @@ div.p.container-experience {
 
 strong {
   font-style: italic;
-  font-weight; lighter;
 }

@@ -74,3 +74,9 @@ h2,
   color: white;
   font-weight: bold;
 }
+
+h2 {
+  background-color: #334853;
+  color: white;
+  padding: 5px;
+}

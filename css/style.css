@@ -30,7 +30,7 @@ img{
 
 div.center-top-content {
   text-align:center;
-  border-bottom: 2px solid grey;
+  border-bottom: 1px solid grey;
   margin-bottom: 20px;
   margin-top: 0;
   margin-right: auto;
@@ -42,6 +42,7 @@ div.center-top-content {
 .personal-title {
   color: grey;
   font-style: italic;
+  font-weight: bold;
 }
 
 ul{

@@ -2,4 +2,11 @@
 img {
   width: 50%;
   float: center;
+  margin-top: 16px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-color: red;
 }

@@ -5,7 +5,7 @@ body {
 }
 
 img{
-  width: 50%;
+  width: 450px;
   float: center;
 }
 
@@ -32,6 +32,15 @@ h3 {
   border-top: 1px dotted grey;
   border-bottom: 1px dotted grey;
   color: #729da6;
+  text-transform: uppercase;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.location {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: grey;
 }
 
 hr{
@@ -43,6 +52,7 @@ hr{
 }
 .about {
   color: #729da6;
+  font-size: 12px;
 }
 
 .main-content {
@@ -79,7 +89,7 @@ hr{
   float: right;
   margin-top: 16px;
   margin-left: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 h6{

@@ -9,6 +9,11 @@ h3 {
   color: #990000;
 }
 
+.main-content {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .center-top-content {
   text-align:center;
   margin-bottom: 20px;
@@ -40,6 +45,7 @@ h3 {
   padding-left: 5px;
   padding-right: 5px;
   color: black;
+  text-indent: 2em;
 }
 
 .add-ons {
@@ -63,4 +69,21 @@ h3 {
   margin-top: 16px;
   margin-left: 20px;
   margin-bottom: 20px;
+}
+
+h6{
+  color: #990000;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+span.price{
+  font-style: italic;
+}
+
+.side-dishes{
+  font-weight: lighter;
+  margin-top: auto;
+  margin-bottom: auto;
 }

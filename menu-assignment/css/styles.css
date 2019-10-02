@@ -1,5 +1,9 @@
 /* font-family: "Raleway", sans-serif; */
 
+body {
+  font-family: "Raleway", sans-serif;
+}
+
 img{
   width: 50%;
   float: center;
@@ -30,6 +34,13 @@ h3 {
   color: #729da6;
 }
 
+hr{
+  border-top: 1px dotted grey;
+  border-bottom: 1px dotted grey;
+  width: 400px;
+  margin-left: 0px;
+
+}
 .about {
   color: #729da6;
 }
@@ -64,7 +75,7 @@ h3 {
 }
 
 .restaurant-info img {
-  width: 25%;
+  width: 40%;
   float: right;
   margin-top: 16px;
   margin-left: 20px;

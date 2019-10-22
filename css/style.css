@@ -59,6 +59,14 @@ ul{
   margin: 0 .25em;
 }
 
+div.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
 .main-content{
   width: 80%;
   margin: 0 auto;
@@ -68,6 +76,7 @@ ul{
   line-height: 1.8;
   overflow: auto;
 }
+
 .introduction img {
   width: 25%;
   float: right;

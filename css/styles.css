@@ -1,9 +1,9 @@
 h1 {
   font-size: 36px;
   color: black;
-  text-transform: uppercase;
   letter-spacing: 3px;
-  margin-bottom: 0
+  margin-bottom: 0;
+  text-align: center;
 }
 
 p {
@@ -12,20 +12,18 @@ p {
 }
 
 body {
-  max-width: 800px;
   font-family: 'Noto Serif JP', serif;
   margin: 20px auto;
+  background: linear-gradient(to left, #ffffff 33%, #ff99cc 99%)
 }
 
 div.center-top-content {
   text-align:left;
-  border-bottom: 1px solid grey;
   margin-bottom: 20px;
   margin-top: 250px;
   margin-right: auto;
   margin-left: auto;
   letter-spacing: 2px;
-  max-width: 500px;
 }
 
 .personal-title {
@@ -33,6 +31,7 @@ div.center-top-content {
   font-style: italic;
   font-weight: normal;
   list-style-type: none;
+  margin-left: 40px;
 }
 
 ul{
@@ -46,12 +45,11 @@ ul{
   text-align: center;
   margin: 0 auto 20px;
   max-width: 750px;
-  padding-left: 0
+  padding-left: 0;
 }
 
-#nav-social > li:not(:last-child)::after {
-  content: "|";
-  margin: 0 .25em;
+#nav-social: hover {
+  color: black;
 }
 
 div.flex-container {
@@ -94,7 +92,7 @@ h1,h2,h3,h4,h5{
 }
 
 h2 {
-  background-color:#ff66b3;
+  background-color:#ff80bf;
   color: white;
   padding: 5px;
 }

@@ -107,9 +107,13 @@ ul{
   color: black;
   font-weight: normal;
   list-style-type: none;
-  margin-left: 40px;
+  font-size: 20px;
 }
 
+.aspirations h2{
+  float: left;
+
+}
 #nav-social {
   list-style-type: none;
   text-align: center;
@@ -136,16 +140,15 @@ div.flex-container {
   overflow: auto;
 }
 
-.about-me img {
-    width: 25%;
+.photo img {
+    width: 50%;
     float: left;
-    margin-top: 16px;
-    margin-left: 20px;
-    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-bottom: 150px;
     align-items: flex-start;
 }
 
-h4 {
+h2 {
   background-color:#ff80bf;
   color: white;
   padding: 5px;

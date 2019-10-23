@@ -17,6 +17,7 @@ body {
   background: linear-gradient(to left, #ffffff 33%, #ff99cc 99%)
 }
 
+
 div.center-top-content {
   text-align:left;
   margin-bottom: 20px;
@@ -25,7 +26,16 @@ div.center-top-content {
   margin-left: auto;
   letter-spacing: 2px;
 }
-
+.top-content {
+  margin-top: 85px;
+}
+.personal-title_2 {
+  color: black;
+  font-style: italic;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 40px;
+}
 .personal-title {
   color: black;
   font-style: italic;
@@ -34,6 +44,35 @@ div.center-top-content {
   margin-left: 40px;
 }
 
+.about-me {
+  text-align: center;
+  font-size: 100px;
+  margin: 100px auto;
+  max-width: 600px;
+  position: relative;
+}
+.about-me:before {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #000;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  z-index: -2;
+}
+.about-me:after {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #000;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  z-index: -2;
+}
 ul{
   list-style-type: desc;
   text-align: left;
@@ -46,10 +85,6 @@ ul{
   margin: 0 auto 20px;
   max-width: 750px;
   padding-left: 0;
-}
-
-#nav-social: hover {
-  color: black;
 }
 
 div.flex-container {
@@ -69,12 +104,20 @@ div.flex-container {
   line-height: 1.8;
   overflow: auto;
 }
-.img {
-  width: 25%;
-  float: right;
-  margin-top: 16px;
-  margin-left: 20px;
-  margin-bottom: 20px;
+
+.about-me img {
+    width: 25%;
+    float: left;
+    margin-top: 16px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+}
+
+h4 {
+  background-color:#ff80bf;
+  color: white;
+  padding: 5px;
 }
 
 h1,h2,h3,h4,h5{

@@ -40,21 +40,16 @@ ul{
   list-style-position: outside;
 }
 
-#nav-links {
+#nav-social {
   list-style-type: none;
   text-align: center;
   margin: 0 auto 20px;
-  max-width: 500px;
+  max-width: 750px;
   padding-left: 0
 }
 
-#nav-links li {
-  list-style-type: none;
-  text-align: center;
-  display:inline;
-}
 
-#nav-links > li:not(:last-child)::after {
+#nav-social > li:not(:last-child)::after {
   content: "|";
   margin: 0 .25em;
 }

@@ -73,10 +73,41 @@ div.center-top-content {
   top: 50%;
   z-index: -2;
 }
+
+.Resume {
+  text-align: center;
+  font-size: 100px;
+  margin: 100px auto;
+  max-width: 600px;
+  position: relative;
+}
+.Resume:before {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #000;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  z-index: -2;
+}
+.Resume:after {
+  content: "";
+  display: block;
+  width: 200px;
+  height: 2px;
+  background: #000;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  z-index: -2;
+}
 ul{
-  list-style-type: desc;
-  text-align: left;
-  list-style-position: outside;
+  color: black;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 40px;
 }
 
 #nav-social {
